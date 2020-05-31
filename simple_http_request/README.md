@@ -19,5 +19,7 @@ Configuring the Visual Studio Code Editor for DART development
 1, Install the DART plugin to VS code as per the link https://dartcode.org/
 
 2, Install the stagehand plugin for the dart  refer https://pub.dev/packages/stagehand, this will help to boostrap your code for diferent type of applciaiton you choose (cosnole, web etc ) A Dart project generator
+https://dartcode.org/releases/v2-23/
+
 
 
