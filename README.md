@@ -4,7 +4,7 @@ Simple DART Asynchronous Helloworld console application
 
 A simple command-line application.
 
-Created from templates made available by Stagehand under a BSD-style license.
+Created from templates made available by Stagehand 
 
 Setting up the DART environment in widowsmachine
 
