@@ -7,6 +7,8 @@ A simple command-line application.
 Created from templates made available by Stagehand under a BSD-style license.
 
 Setting up the DART environment in widowsmachine
+
+
 1, Install the package manager from https://chocolatey.org/
 
 2, install the DART SDK using the commands mentioned in the link https://dart.dev/get-dart
